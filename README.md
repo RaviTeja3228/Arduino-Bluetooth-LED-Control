@@ -45,6 +45,3 @@ The HC-05 receives commands from the mobile phone and sends them to Arduino Uno.
 - Create a custom Android app with ON/OFF buttons.
 - Control multiple LEDs using Bluetooth.
 - Add suitable driver circuits for controlling larger loads.
-
-## Author
-Vara Naga Raviteja
